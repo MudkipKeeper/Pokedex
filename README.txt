@@ -1,0 +1,1 @@
+ddl и dml скрипты лежат в /Genera/Scripts
