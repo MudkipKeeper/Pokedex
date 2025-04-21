@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="NodeList/DBNDatabaseFolder">
+		<column name="Название" visible="true" order="0" width="166"/>
+	</item>
+	<item id="NodeList/DBNProjectDatabases/DBNBookmarkFolder/DBNDashboardFolder/DBNDiagramFolder/DBNResource">
+		<column name="Name" visible="true" order="0" width="100"/>
+		<column name="Path" visible="true" order="1" width="126"/>
+		<column name="Size" visible="true" order="2" width="100"/>
+		<column name="Last modified" visible="true" order="3" width="100"/>
+	</item>
+	<item id="NodeList/PostgreDatabase">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="Комментарий" visible="true" order="1" width="100"/>
+	</item>
+	<item id="NodeList/PostgreIndex">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="Column" visible="true" order="1" width="100"/>
+		<column name="Таблица" visible="true" order="2" width="100"/>
+		<column name="Уникальный" visible="true" order="3" width="100"/>
+		<column name="Предикат" visible="true" order="4" width="100"/>
+		<column name="Размер" visible="true" order="5" width="100"/>
+		<column name="Метод доступа" visible="true" order="6" width="100"/>
+		<column name="Табличное пространство" visible="true" order="7" width="154"/>
+		<column name="Комментарий" visible="true" order="8" width="100"/>
+	</item>
+	<item id="NodeList/PostgreSchema">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="Комментарий" visible="true" order="1" width="140"/>
+	</item>
+	<item id="NodeList/PostgreSequence">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="ID объекта" visible="true" order="1" width="100"/>
+		<column name="Последнее" visible="true" order="2" width="100"/>
+		<column name="Владелец" visible="true" order="3" width="100"/>
+		<column name="Start value" visible="true" order="4" width="100"/>
+		<column name="Минимум" visible="true" order="5" width="100"/>
+		<column name="Максимум" visible="true" order="6" width="100"/>
+		<column name="Шаг" visible="true" order="7" width="100"/>
+		<column name="Кэш" visible="true" order="8" width="100"/>
+		<column name="Циклирование" visible="true" order="9" width="100"/>
+		<column name="Комментарий" visible="true" order="10" width="100"/>
+	</item>
+	<item id="NodeList/PostgreTable">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="ID объекта" visible="true" order="1" width="100"/>
+		<column name="Владелец" visible="true" order="2" width="100"/>
+		<column name="Табличное пространство" visible="true" order="3" width="153"/>
+		<column name="Примерное число строк" visible="true" order="4" width="150"/>
+		<column name="Has Row-Level Security" visible="true" order="5" width="137"/>
+		<column name="Секционирование" visible="true" order="6" width="115"/>
+		<column name="Секционирование по" visible="true" order="7" width="132"/>
+		<column name="Дополнительные опции" visible="true" order="8" width="148"/>
+		<column name="Комментарий" visible="true" order="9" width="100"/>
+	</item>
+	<item id="NodeList/PostgreTableRegular">
+		<column name="Название" visible="true" order="0" width="174"/>
+		<column name="ID объекта" visible="true" order="1" width="100"/>
+		<column name="Владелец" visible="true" order="2" width="100"/>
+		<column name="Табличное пространство" visible="true" order="3" width="153"/>
+		<column name="Примерное число строк" visible="true" order="4" width="150"/>
+		<column name="Has Row-Level Security" visible="true" order="5" width="137"/>
+		<column name="Секционирование" visible="true" order="6" width="115"/>
+		<column name="Секционирование по" visible="true" order="7" width="132"/>
+		<column name="Дополнительные опции" visible="true" order="8" width="148"/>
+		<column name="Комментарий" visible="true" order="9" width="100"/>
+	</item>
+	<item id="NodeList/PostgreView">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="ID объекта" visible="true" order="1" width="100"/>
+		<column name="Владелец" visible="true" order="2" width="100"/>
+		<column name="Примерное число строк" visible="true" order="3" width="150"/>
+		<column name="Дополнительные опции" visible="true" order="4" width="148"/>
+		<column name="Комментарий" visible="true" order="5" width="100"/>
+	</item>
+	<item id="Suggestion/NodeList/PostgreTableColumn">
+		<column name="Название" visible="true" order="0" width="122"/>
+		<column name="#" visible="true" order="1" width="27"/>
+		<column name="Тип данных" visible="true" order="2" width="79"/>
+		<column name="Автоувеличение" visible="true" order="3" width="105"/>
+		<column name="Правило сортировки" visible="false" order="4" width="131"/>
+		<column name="Not Null" visible="false" order="5" width="100"/>
+		<column name="По умолчанию" visible="false" order="6" width="268"/>
+		<column name="Комментарий" visible="true" order="4" width="91"/>
+	</item>
+	<item id="projectExplorer">
+		<column name="Название" visible="true" order="0" width="208"/>
+		<column name="Источник данных" visible="true" order="1" width="119"/>
+	</item>
+</items>

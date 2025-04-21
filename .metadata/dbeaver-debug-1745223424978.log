@@ -1,0 +1,332 @@
+2025-04-20 13:58:32.655 - DBeaver 24.3.4.202502021521 is starting
+2025-04-20 13:58:32.657 - OS: Windows 10 10.0 (amd64)
+2025-04-20 13:58:32.657 - Java version: 21.0.5 by Eclipse Adoptium (64bit)
+2025-04-20 13:58:32.658 - Install path: 'C:\Users\Egorgorgor\AppData\Local\DBeaver'
+2025-04-20 13:58:32.658 - Instance path: 'file:/C:/Users/Egorgorgor/AppData/Roaming/DBeaverData/workspace6/'
+2025-04-20 13:58:32.659 - Memory available 64Mb/1024Mb
+2025-04-20 13:58:32.659 - Platform not initialized: metadata folder may be not set
+2025-04-20 13:58:32.673 - Create display
+2025-04-20 13:58:32.816 - Initialize desktop platform...
+2025-04-20 13:58:33.008 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.100.v20241022-0806]
+> Start Core Resource Management [org.eclipse.core.resources 3.22.0.v20241001-1711]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.148.202502021521]
+2025-04-20 13:58:33.392 - Initialize base platform...
+> Start Ядро поддержки совместной работы [org.eclipse.team.core 3.10.500.v20240621-0541]
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.148.202502021521]
+2025-04-20 13:58:33.646 - Platform initialized (830ms)
+2025-04-20 13:58:33.917 - Error accessing instance server: java.net.ConnectException
+2025-04-20 13:58:33.931 - Starting instance server at http://localhost:53016
+2025-04-20 13:58:34.006 - Run workbench
+> Start Eclipse e4 SWT рабочая среда [org.eclipse.e4.ui.workbench.swt 0.17.600.v20241015-1729]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.0.v20241015-2219]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.400.v20241015-1729]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.700.v20241015-1729]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.500.v20241015-1729]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.500.v20241015-1729]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.38.0.v20240721-0634]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 дополнения рабочей среды [org.eclipse.e4.ui.workbench.addons.swt 1.5.600.v20241107-2150]
+Warning: NLS unused message: Workbench_missingPropertyMessage in: org.eclipse.ui.internal.messages
+Warning: NLS unused message: WorkbenchPreference_reuseEditorsThreshold in: org.eclipse.ui.internal.messages
+> Start Eclipse e4 SWT визуализация рабочей среды [org.eclipse.e4.ui.workbench.renderers.swt 0.16.600.v20241008-1401]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+Warning: NLS unused message: UriHandlerPreferencePage_Warning_OtherApp in: org.eclipse.ui.internal.ide.messages
+> Start Текстовый редактор по умолчанию [org.eclipse.ui.editors 3.19.0.v20241106-0945]
+> Start Структура Текстового Редактора [org.eclipse.ui.workbench.texteditor 3.19.0.v20241112-1917]
+2025-04-20 13:58:45.063 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.138.202502021521]
+2025-04-20 13:58:45.327 - Total database drivers: 124 (124)
+> Start Ядро Справочной Системы [org.eclipse.help 3.10.400.v20240415-0528]
+2025-04-20 13:58:45.807 - Create actions
+2025-04-20 13:58:45.815 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-04-20 13:58:45.816 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-04-20 13:58:45.816 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-04-20 13:58:45.817 - Create workbench actions
+2025-04-20 13:58:46.472 - Initialize workbench window
+2025-04-20 13:58:46.477 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.148.202502021521]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.500.v20240625-1706]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.148.202502021521]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.185.202502021521]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.154.202502021521]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.18.0.202411181923]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.20.0.202411181923]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.108.202502021521]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.108.202502021521]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.145.202502021521]
+2025-04-20 13:58:48.202 - Connect with 'postgres' (postgres-jdbc-194dfb940fe-549b27957cf9af)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.41.202502021521]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.221.202502021521]
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.172.202502021521]
+2025-04-20 13:58:48.284 - Execution context opened (postgres; Main <postgres>; 0)
+2025-04-20 13:58:48.287 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2025-04-20 13:58:49.100 - Execution context opened (postgres; Metadata <postgres>; 1)
+2025-04-20 13:58:49.100 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata <postgres>
+2025-04-20 13:58:49.256 - Connected (postgres-jdbc-194dfb940fe-549b27957cf9af, PostgreSQL JDBC Driver [42.7.2])
+2025-04-20 13:58:50.511 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.124.202502021521]
+Warning: NLS unused message: FindReplace_title in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Find_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Replace_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Direction in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ForwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_BackwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Scope in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_GlobalRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectedRangeRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Options in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CaseCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WrapCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WholeWordCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_IncrementalCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_RegExCheckbox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_FindNextButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceFindButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceSelectionButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CloseButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_noMatch_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_noMatchWithValue_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacement_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacements_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_wrapped_label in: org.eclipse.ui.texteditor.EditorMessages
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.124.202502021521]
+> Start Базовая поддержка сравнения [org.eclipse.compare.core 3.8.600.v20240915-0814]
+> Start Консоль [org.eclipse.ui.console 3.14.200.v20240918-1457]
+> Start Отладка ядра [org.eclipse.debug.core 3.22.0.v20241113-1056]
+2025-04-20 13:59:03.757 - Execution context opened (postgres; SQLEditor <fill_abilities.sql>; 2)
+2025-04-20 13:59:03.758 - Initiate connection to PostgreSQL database [postgres@localhost] for SQLEditor <fill_abilities.sql>
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.126.202502021521]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.126.202502021521]
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.43.202502021521]
+2025-04-20 13:59:13.232 - Execution context opened (postgres; SQLEditor <Script-1.sql>; 3)
+2025-04-20 13:59:13.232 - Initiate connection to PostgreSQL database [postgres@localhost] for SQLEditor <Script-1.sql>
+2025-04-20 14:27:24.813 - Execution context opened (postgres; SQLEditor <Script.sql>; 4)
+2025-04-20 14:27:24.813 - Initiate connection to PostgreSQL database [postgres@localhost] for SQLEditor <Script.sql>
+2025-04-20 14:27:25.832 - SWT resource leak detected
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.TextLayout.<init>(TextLayout.java:302)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.getSharedTextLayout(StyledCellLabelProvider.java:207)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.measure(StyledCellLabelProvider.java:276)
+	at org.eclipse.jface.viewers.OwnerDrawLabelProvider$OwnerDrawListener.handleEvent(OwnerDrawLabelProvider.java:58)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1197)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1182)
+	at org.eclipse.swt.widgets.Table.sendMeasureItemEvent(Table.java:3647)
+	at org.eclipse.swt.widgets.Table.hitTestSelection(Table.java:2834)
+	at org.eclipse.swt.widgets.Table.showItem(Table.java:5318)
+	at org.eclipse.swt.widgets.Table.showSelection(Table.java:5411)
+	at org.eclipse.swt.widgets.Table.setSelection(Table.java:4994)
+	at org.eclipse.jface.viewers.TableViewer.doSetSelection(TableViewer.java:315)
+	at org.eclipse.jface.viewers.AbstractTableViewer.setSelectionToWidget(AbstractTableViewer.java:910)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelectionToWidget(StructuredViewer.java:1706)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1662)
+	at org.eclipse.jface.viewers.TableViewer.setSelection(TableViewer.java:167)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.AbstractTableInformationControl.selectFirstMatch(AbstractTableInformationControl.java:446)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.BasicPartList.setInput(BasicPartList.java:169)
+	at org.jkiss.dbeaver.ui.e4.DBeaverStackRenderer.showAvailableItems(DBeaverStackRenderer.java:104)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showAvailableItems(StackRenderer.java:1268)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.showList(StackRenderer.java:1233)
+	at org.eclipse.swt.custom.CTabFolder.onSelection(CTabFolder.java:2196)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:340)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4202)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3790)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:663)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:570)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:293)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:650)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:610)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1461)
+2025-04-20 14:32:46.408 - SWT resource leak detected
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.TextLayout.<init>(TextLayout.java:302)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.getSharedTextLayout(StyledCellLabelProvider.java:207)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.measure(StyledCellLabelProvider.java:276)
+	at org.eclipse.jface.viewers.OwnerDrawLabelProvider$OwnerDrawListener.handleEvent(OwnerDrawLabelProvider.java:58)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1197)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1182)
+	at org.eclipse.swt.widgets.Table.sendMeasureItemEvent(Table.java:3647)
+	at org.eclipse.swt.widgets.Table.hitTestSelection(Table.java:2834)
+	at org.eclipse.swt.widgets.Table.showItem(Table.java:5318)
+	at org.eclipse.swt.widgets.Table.showSelection(Table.java:5411)
+	at org.eclipse.swt.widgets.Table.setSelection(Table.java:4994)
+	at org.eclipse.jface.viewers.TableViewer.doSetSelection(TableViewer.java:315)
+	at org.eclipse.jface.viewers.AbstractTableViewer.setSelectionToWidget(AbstractTableViewer.java:910)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelectionToWidget(StructuredViewer.java:1706)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1662)
+	at org.eclipse.jface.viewers.TableViewer.setSelection(TableViewer.java:167)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.AbstractTableInformationControl.selectFirstMatch(AbstractTableInformationControl.java:446)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.BasicPartList.setInput(BasicPartList.java:169)
+	at org.jkiss.dbeaver.ui.e4.DBeaverStackRenderer.showAvailableItems(DBeaverStackRenderer.java:104)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showAvailableItems(StackRenderer.java:1268)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.showList(StackRenderer.java:1233)
+	at org.eclipse.swt.custom.CTabFolder.onSelection(CTabFolder.java:2196)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:340)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4202)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3790)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:663)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:570)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:293)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:650)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:610)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1461)
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.132.202502021521]
+2025-04-20 14:47:10.375 - SWT resource leak detected
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.TextLayout.<init>(TextLayout.java:302)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.getSharedTextLayout(StyledCellLabelProvider.java:207)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.measure(StyledCellLabelProvider.java:276)
+	at org.eclipse.jface.viewers.OwnerDrawLabelProvider$OwnerDrawListener.handleEvent(OwnerDrawLabelProvider.java:58)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1197)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1182)
+	at org.eclipse.swt.widgets.Table.sendMeasureItemEvent(Table.java:3647)
+	at org.eclipse.swt.widgets.Table.hitTestSelection(Table.java:2834)
+	at org.eclipse.swt.widgets.Table.showItem(Table.java:5318)
+	at org.eclipse.swt.widgets.Table.showSelection(Table.java:5411)
+	at org.eclipse.swt.widgets.Table.setSelection(Table.java:4994)
+	at org.eclipse.jface.viewers.TableViewer.doSetSelection(TableViewer.java:315)
+	at org.eclipse.jface.viewers.AbstractTableViewer.setSelectionToWidget(AbstractTableViewer.java:910)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelectionToWidget(StructuredViewer.java:1706)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1662)
+	at org.eclipse.jface.viewers.TableViewer.setSelection(TableViewer.java:167)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.AbstractTableInformationControl.selectFirstMatch(AbstractTableInformationControl.java:446)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.BasicPartList.setInput(BasicPartList.java:169)
+	at org.jkiss.dbeaver.ui.e4.DBeaverStackRenderer.showAvailableItems(DBeaverStackRenderer.java:104)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showAvailableItems(StackRenderer.java:1268)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.showList(StackRenderer.java:1233)
+	at org.eclipse.swt.custom.CTabFolder.onSelection(CTabFolder.java:2196)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:340)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4202)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3790)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:663)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:570)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:293)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:650)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:610)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1461)
+2025-04-20 14:47:10.380 - SWT resource leak detected
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.TextLayout.<init>(TextLayout.java:302)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.getSharedTextLayout(StyledCellLabelProvider.java:207)
+	at org.eclipse.jface.viewers.StyledCellLabelProvider.measure(StyledCellLabelProvider.java:276)
+	at org.eclipse.jface.viewers.OwnerDrawLabelProvider$OwnerDrawListener.handleEvent(OwnerDrawLabelProvider.java:58)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1197)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1182)
+	at org.eclipse.swt.widgets.Table.sendMeasureItemEvent(Table.java:3647)
+	at org.eclipse.swt.widgets.Table.hitTestSelection(Table.java:2834)
+	at org.eclipse.swt.widgets.Table.showItem(Table.java:5318)
+	at org.eclipse.swt.widgets.Table.showSelection(Table.java:5411)
+	at org.eclipse.swt.widgets.Table.setSelection(Table.java:4994)
+	at org.eclipse.jface.viewers.TableViewer.doSetSelection(TableViewer.java:315)
+	at org.eclipse.jface.viewers.AbstractTableViewer.setSelectionToWidget(AbstractTableViewer.java:910)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelectionToWidget(StructuredViewer.java:1706)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1662)
+	at org.eclipse.jface.viewers.TableViewer.setSelection(TableViewer.java:167)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.AbstractTableInformationControl.selectFirstMatch(AbstractTableInformationControl.java:446)
+	at org.eclipse.e4.ui.internal.workbench.renderers.swt.BasicPartList.setInput(BasicPartList.java:169)
+	at org.jkiss.dbeaver.ui.e4.DBeaverStackRenderer.showAvailableItems(DBeaverStackRenderer.java:104)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showAvailableItems(StackRenderer.java:1268)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$3.showList(StackRenderer.java:1233)
+	at org.eclipse.swt.custom.CTabFolder.onSelection(CTabFolder.java:2196)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:340)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4202)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3790)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:663)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:570)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:293)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:650)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:610)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1461)
+2025-04-20 19:21:31.867 - Execution context closed (postgres, 0)
+2025-04-20 19:21:31.993 - Execution context closed (postgres, 1)
+2025-04-20 19:21:32.005 - Execution context closed (postgres, 2)
+2025-04-20 19:21:32.016 - Execution context closed (postgres, 3)
+2025-04-20 19:21:32.029 - Execution context closed (postgres, 4)
+2025-04-20 19:21:32.036 - Disconnected (postgres-jdbc-194dfb940fe-549b27957cf9af)

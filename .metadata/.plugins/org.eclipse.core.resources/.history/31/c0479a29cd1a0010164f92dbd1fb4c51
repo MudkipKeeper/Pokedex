@@ -1,0 +1,89 @@
+-- 1. Таблица type (Типы покемонов)
+CREATE TABLE element_type (
+    type_id    SERIAL PRIMARY KEY,
+    type_name  VARCHAR(100) NOT NULL UNIQUE
+);
+/*
+-- 2. Таблица pokemon (Основная информация о покемонах)
+CREATE TABLE pokemon (
+    pokemon_id             SERIAL PRIMARY KEY,
+    pokemon_name           VARCHAR(100) NOT NULL UNIQUE,
+    primary_type_id        INTEGER NOT NULL,
+    secondary_type_id      INTEGER,
+    hp                     INTEGER NOT NULL,
+    atk                   INTEGER NOT NULL,
+    spec_atk               INTEGER NOT NULL,
+    def                   INTEGER NOT NULL,
+    spec_def               INTEGER NOT NULL,
+    FOREIGN KEY (primary_type_id) REFERENCES element_type(type_id),
+    FOREIGN KEY (secondary_type_id) REFERENCES element_type(type_id)
+);
+
+-- 3. Таблица attack (Информация об атаках)
+CREATE TABLE attack (
+    attack_id           SERIAL PRIMARY KEY,
+    attack_name         VARCHAR(100) NOT NULL UNIQUE,
+    type_id             INTEGER NOT NULL,
+    attack_category     VARCHAR(10) NOT NULL,  -- Допустимые значения: 'status', 'physical', 'special'
+    power               INTEGER NOT NULL,
+    accuracy            INTEGER NOT NULL,
+    attack_description  VARCHAR(500),
+    FOREIGN KEY (type_id) REFERENCES element_type(type_id),
+    CHECK (attack_category IN ('status', 'physical', 'special'))
+);
+
+-- 4. Таблица superiority_of_types (Множитель урона одного типа по отношению к другому)
+CREATE TABLE superiority_of_types (
+    attack_type_id   INTEGER NOT NULL,
+    defender_type_id INTEGER NOT NULL,
+    dmg_multiplier   REAL NOT NULL,
+    PRIMARY KEY (attack_type_id, defender_type_id),
+    FOREIGN KEY (attack_type_id) REFERENCES element_type(type_id),
+    FOREIGN KEY (defender_type_id) REFERENCES element_type(type_id),
+    CHECK (dmg_multiplier in (0, 0.5, 2))
+);
+
+-- 5. Таблица abilities (Информация о способностях)
+CREATE TABLE abilities (
+    ability_id           SERIAL PRIMARY KEY,
+    ability_name         VARCHAR(100) NOT NULL UNIQUE,
+    ability_description  VARCHAR(500) NOT NULL
+);
+
+-- 6. Таблица pokemon_abilities (Связь M:N между pokemon и abilities)
+CREATE TABLE pokemon_abilities (
+    pokemon_id INTEGER NOT NULL,
+    ability_id INTEGER NOT NULL,
+    PRIMARY KEY (pokemon_id, ability_id),
+    FOREIGN KEY (pokemon_id) REFERENCES pokemon(pokemon_id),
+    FOREIGN KEY (ability_id) REFERENCES abilities(ability_id)
+);
+
+-- 7. Таблица pokemon_attack (Связь M:N между pokemon и attack)
+CREATE TABLE pokemon_attack (
+    pokemon_id INTEGER NOT NULL,
+    attack_id  INTEGER NOT NULL,
+    PRIMARY KEY (pokemon_id, attack_id),
+    FOREIGN KEY (pokemon_id) REFERENCES pokemon(pokemon_id),
+    FOREIGN KEY (attack_id) REFERENCES attack(attack_id)
+);
+
+-- 8. Таблица game_version (Информация о версиях игр)
+CREATE TABLE game_version (
+    version_id          SERIAL PRIMARY KEY,
+    version_name        VARCHAR(100) NOT NULL UNIQUE,
+);
+
+-- 9. Таблица pokemon_in_versions (Характеристики покемона, зависящие от версии игры)
+CREATE TABLE pokemon_in_versions (
+    pokemon_id           INTEGER NOT NULL,
+    version_id           INTEGER NOT NULL,
+    hp_in_version        INTEGER NOT NULL,
+    atk_in_version      INTEGER NOT NULL,
+    def_in_version      INTEGER NOT NULL,
+    spec_atk_in_version  INTEGER NOT NULL,
+    spec_def_in_version  INTEGER NOT NULL,
+    PRIMARY KEY (pokemon_id, version_id),
+    FOREIGN KEY (pokemon_id) REFERENCES pokemon(pokemon_id),
+    FOREIGN KEY (version_id) REFERENCES game_version(version_id)
+);*/

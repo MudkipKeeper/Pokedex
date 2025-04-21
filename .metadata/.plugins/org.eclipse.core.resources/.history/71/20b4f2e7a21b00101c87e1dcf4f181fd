@@ -1,0 +1,23 @@
+insert into pokemon_evolution (from_pokemon_id, to_pokemon_id, requirement, requirement_descryption) values 
+(1, 2, 'lvl',)
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+()
+
+;

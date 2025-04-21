@@ -1,0 +1,17 @@
+insert into game_version (version_name) values
+('Pokemon Red'),
+('Pokemon Blue'),
+('Pokemon Yellow'),
+('Pokemon Gold'),
+('Pokemon Silver'),
+('Pokemon Platinum'),
+('Pokemon Emerald'),
+('Pokemon Ruby'),
+('Pokemon Saphire'),
+('Pokemon Fire Red'),
+('Pokemon Leaf Green'),
+('Pokemon Heart Gold'),
+('Pokemon Soul Silver'),
+('Pokemon Black'),
+('Pokemon White')
+;
