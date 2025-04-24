@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
+	<item id="DatabaseInstanceSelector">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="Комментарий" visible="true" order="1" width="100"/>
+	</item>
 	<item id="NodeList/DBNDatabaseFolder">
 		<column name="Название" visible="true" order="0" width="166"/>
 	</item>
@@ -72,6 +76,10 @@
 		<column name="Примерное число строк" visible="true" order="3" width="150"/>
 		<column name="Дополнительные опции" visible="true" order="4" width="148"/>
 		<column name="Комментарий" visible="true" order="5" width="100"/>
+	</item>
+	<item id="SchemaSelector">
+		<column name="Название" visible="true" order="0" width="100"/>
+		<column name="Комментарий" visible="true" order="1" width="140"/>
 	</item>
 	<item id="Suggestion/NodeList/PostgreTableColumn">
 		<column name="Название" visible="true" order="0" width="122"/>

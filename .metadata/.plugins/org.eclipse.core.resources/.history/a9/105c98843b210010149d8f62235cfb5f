@@ -1,0 +1,8 @@
+--Покемоны с эволюцией "lvl"
+SELECT pokemon_name 
+FROM Pokemon p
+WHERE EXISTS (
+    SELECT 1 FROM Evolution e 
+    WHERE e.from_pokemon_id = p.pokemon_id 
+    AND e.requirement = 'lvl'
+);

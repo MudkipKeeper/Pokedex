@@ -1,0 +1,160 @@
+2025-04-21 18:52:46.028 - DBeaver 24.3.4.202502021521 is starting
+2025-04-21 18:52:46.030 - OS: Windows 10 10.0 (amd64)
+2025-04-21 18:52:46.030 - Java version: 21.0.5 by Eclipse Adoptium (64bit)
+2025-04-21 18:52:46.030 - Install path: 'C:\Users\Egorgorgor\AppData\Local\DBeaver'
+2025-04-21 18:52:46.030 - Instance path: 'file:/C:/Users/Egorgorgor/AppData/Roaming/DBeaverData/workspace6/'
+2025-04-21 18:52:46.032 - Memory available 64Mb/1024Mb
+2025-04-21 18:52:46.032 - Platform not initialized: metadata folder may be not set
+2025-04-21 18:52:46.043 - Create display
+2025-04-21 18:52:46.144 - Initialize desktop platform...
+2025-04-21 18:52:46.281 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.100.v20241022-0806]
+> Start Core Resource Management [org.eclipse.core.resources 3.22.0.v20241001-1711]
+> Start Ядро поддержки совместной работы [org.eclipse.team.core 3.10.500.v20240621-0541]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.148.202502021521]
+2025-04-21 18:52:46.495 - Initialize base platform...
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.148.202502021521]
+2025-04-21 18:52:46.518 - Platform initialized (374ms)
+2025-04-21 18:52:46.568 - Starting instance server at http://localhost:61377
+2025-04-21 18:52:46.576 - Run workbench
+> Start Eclipse e4 SWT рабочая среда [org.eclipse.e4.ui.workbench.swt 0.17.600.v20241015-1729]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.0.v20241015-2219]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.400.v20241015-1729]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.700.v20241015-1729]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.500.v20241015-1729]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.500.v20241015-1729]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.38.0.v20240721-0634]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 дополнения рабочей среды [org.eclipse.e4.ui.workbench.addons.swt 1.5.600.v20241107-2150]
+Warning: NLS unused message: Workbench_missingPropertyMessage in: org.eclipse.ui.internal.messages
+Warning: NLS unused message: WorkbenchPreference_reuseEditorsThreshold in: org.eclipse.ui.internal.messages
+> Start Eclipse e4 SWT визуализация рабочей среды [org.eclipse.e4.ui.workbench.renderers.swt 0.16.600.v20241008-1401]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+Warning: NLS unused message: UriHandlerPreferencePage_Warning_OtherApp in: org.eclipse.ui.internal.ide.messages
+> Start Текстовый редактор по умолчанию [org.eclipse.ui.editors 3.19.0.v20241106-0945]
+> Start Структура Текстового Редактора [org.eclipse.ui.workbench.texteditor 3.19.0.v20241112-1917]
+2025-04-21 18:52:48.317 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.138.202502021521]
+2025-04-21 18:52:48.513 - Total database drivers: 124 (124)
+> Start Ядро Справочной Системы [org.eclipse.help 3.10.400.v20240415-0528]
+2025-04-21 18:52:48.621 - Create actions
+2025-04-21 18:52:48.633 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-04-21 18:52:48.634 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-04-21 18:52:48.634 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-04-21 18:52:48.635 - Create workbench actions
+2025-04-21 18:52:49.062 - Initialize workbench window
+2025-04-21 18:52:49.067 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.148.202502021521]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.500.v20240625-1706]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.148.202502021521]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.185.202502021521]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.154.202502021521]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.18.0.202411181923]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.20.0.202411181923]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.108.202502021521]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.108.202502021521]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.145.202502021521]
+2025-04-21 18:52:50.586 - Connect with 'postgres' (postgres-jdbc-194dfb940fe-549b27957cf9af)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.41.202502021521]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.221.202502021521]
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.172.202502021521]
+2025-04-21 18:52:50.659 - Execution context opened (postgres; Main <postgres>; 0)
+2025-04-21 18:52:50.661 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2025-04-21 18:52:50.951 - Execution context opened (postgres; Metadata <postgres>; 1)
+2025-04-21 18:52:50.951 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata <postgres>
+2025-04-21 18:52:51.073 - Connected (postgres-jdbc-194dfb940fe-549b27957cf9af, PostgreSQL JDBC Driver [42.7.2])
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.124.202502021521]
+Warning: NLS unused message: FindReplace_title in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Find_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Replace_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Direction in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ForwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_BackwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Scope in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_GlobalRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectedRangeRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Options in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CaseCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WrapCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WholeWordCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_IncrementalCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_RegExCheckbox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_FindNextButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceFindButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceSelectionButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CloseButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_noMatch_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_noMatchWithValue_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacement_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacements_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_wrapped_label in: org.eclipse.ui.texteditor.EditorMessages
+2025-04-21 20:01:20.011 - Application goes into sleep mode
+2025-04-21 20:23:37.831 - Application wakes
+2025-04-21 21:14:42.311 - Application goes into sleep mode
+2025-04-21 22:55:58.073 - Application wakes
+2025-04-21 22:56:00.542 - Error closing connection
+org.postgresql.util.PSQLException: Unable to close connection properly
+	at org.postgresql.jdbc.PgConnection.close(PgConnection.java:870)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$1(JDBCDataSource.java:424)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$MonitoringTask.run(RuntimeUtils.java:751)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$1.run(RuntimeUtils.java:266)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.SocketException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.tryWrite(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.implWrite(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.write(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl$2.write(Unknown Source)
+	at java.base/java.net.Socket$SocketOutputStream.write(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.implFlush(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.postgresql.core.PGStream.flush(PGStream.java:724)
+	at org.postgresql.core.QueryExecutorCloseAction.close(QueryExecutorCloseAction.java:73)
+	at org.postgresql.jdbc.PgConnectionCleaningAction.onClean(PgConnectionCleaningAction.java:89)
+	at org.postgresql.util.LazyCleaner$Node.onClean(LazyCleaner.java:219)
+	at org.postgresql.util.LazyCleaner$Node.clean(LazyCleaner.java:210)
+	at org.postgresql.jdbc.PgConnection.close(PgConnection.java:867)
+	... 5 more
+2025-04-21 22:56:00.604 - Execution context closed (postgres, 0)
+2025-04-21 22:56:00.605 - Error closing connection
+org.postgresql.util.PSQLException: Unable to close connection properly
+	at org.postgresql.jdbc.PgConnection.close(PgConnection.java:870)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$1(JDBCDataSource.java:424)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$MonitoringTask.run(RuntimeUtils.java:751)
+	at org.jkiss.dbeaver.utils.RuntimeUtils$1.run(RuntimeUtils.java:266)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.SocketException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.tryWrite(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.implWrite(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.write(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl$2.write(Unknown Source)
+	at java.base/java.net.Socket$SocketOutputStream.write(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.implFlush(Unknown Source)
+	at java.base/java.io.BufferedOutputStream.flush(Unknown Source)
+	at org.postgresql.core.PGStream.flush(PGStream.java:724)
+	at org.postgresql.core.QueryExecutorCloseAction.close(QueryExecutorCloseAction.java:73)
+	at org.postgresql.jdbc.PgConnectionCleaningAction.onClean(PgConnectionCleaningAction.java:89)
+	at org.postgresql.util.LazyCleaner$Node.onClean(LazyCleaner.java:219)
+	at org.postgresql.util.LazyCleaner$Node.clean(LazyCleaner.java:210)
+	at org.postgresql.jdbc.PgConnection.close(PgConnection.java:867)
+	... 5 more
+2025-04-21 22:56:00.616 - Execution context closed (postgres, 1)
+2025-04-21 22:56:00.617 - Disconnected (postgres-jdbc-194dfb940fe-549b27957cf9af)
+2025-04-22 00:45:10.709 - Application goes into sleep mode
+2025-04-22 00:45:47.379 - Application wakes
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.139.202502021521]
+2025-04-22 01:36:56.424 - Dispose navigator model
+2025-04-22 01:36:56.568 - DBeaver is stopping
+2025-04-22 01:36:56.570 - Stop instance server
+2025-04-22 01:36:57.581 - DBeaver shutdown completed
